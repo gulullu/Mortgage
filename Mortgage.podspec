@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "Mortgage"    #名称
-  s.version          = "1.0.0"             #版本号
+  s.version          = "1.0.2"             #版本号
   s.summary       = "mfb'calculator on iOS."     #简短介绍，下面是详细介绍
   s.description    = <<-DESC
            mfb'calculator for iOS.
