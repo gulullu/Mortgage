@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/gulullu/ios_calculator"                           #主页,这里要填写可以访问到的地址，不然验证不通过
   s.license          = 'MIT'              #开源协议
   s.author           = { "Allen" => "gulullu@gmail.com" }                   #作者信息
-  s.source           = { :git => "https://github.com/gulullu/ios_calculator.git", :tag => "1.0.1" }      #项目地址，这里不支持ssh的地址，验证不通过，只支持HTTP和HTTPS，最好使用HTTPS
+  s.source           = { :git => "https://github.com/gulullu/ios_calculator.git", :tag => "1.0.2" }      #项目地址，这里不支持ssh的地址，验证不通过，只支持HTTP和HTTPS，最好使用HTTPS
 
   s.platform     = :ios, '7.0'            #支持的平台及版本
   s.requires_arc = true                   #是否使用ARC，如果指定具体文件，则具体的问题使用ARC
